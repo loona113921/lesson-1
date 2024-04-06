@@ -12,3 +12,4 @@ C:\Users\redmi\OneDrive\Рабочий стол\C#\lesson-1\Task1\obj\Debug\net9
 C:\Users\redmi\OneDrive\Рабочий стол\C#\lesson-1\Task1\obj\Debug\net9.0\Task1.pdb
 C:\Users\redmi\OneDrive\Рабочий стол\C#\lesson-1\Task1\obj\Debug\net9.0\Task1.genruntimeconfig.cache
 C:\Users\redmi\OneDrive\Рабочий стол\C#\lesson-1\Task1\obj\Debug\net9.0\ref\Task1.dll
+C:\Users\redmi\OneDrive\Рабочий стол\C#\lesson-1\Task1\obj\Debug\net9.0\Task1.sourcelink.json
