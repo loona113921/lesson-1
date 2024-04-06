@@ -1,0 +1,14 @@
+C:\Users\redmi\OneDrive\Рабочий стол\C#\lesson-1\Task1\bin\Debug\net9.0\Task1.exe
+C:\Users\redmi\OneDrive\Рабочий стол\C#\lesson-1\Task1\bin\Debug\net9.0\Task1.deps.json
+C:\Users\redmi\OneDrive\Рабочий стол\C#\lesson-1\Task1\bin\Debug\net9.0\Task1.runtimeconfig.json
+C:\Users\redmi\OneDrive\Рабочий стол\C#\lesson-1\Task1\bin\Debug\net9.0\Task1.dll
+C:\Users\redmi\OneDrive\Рабочий стол\C#\lesson-1\Task1\bin\Debug\net9.0\Task1.pdb
+C:\Users\redmi\OneDrive\Рабочий стол\C#\lesson-1\Task1\obj\Debug\net9.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redmi\OneDrive\Рабочий стол\C#\lesson-1\Task1\obj\Debug\net9.0\Task1.AssemblyInfoInputs.cache
+C:\Users\redmi\OneDrive\Рабочий стол\C#\lesson-1\Task1\obj\Debug\net9.0\Task1.AssemblyInfo.cs
+C:\Users\redmi\OneDrive\Рабочий стол\C#\lesson-1\Task1\obj\Debug\net9.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\redmi\OneDrive\Рабочий стол\C#\lesson-1\Task1\obj\Debug\net9.0\Task1.dll
+C:\Users\redmi\OneDrive\Рабочий стол\C#\lesson-1\Task1\obj\Debug\net9.0\refint\Task1.dll
+C:\Users\redmi\OneDrive\Рабочий стол\C#\lesson-1\Task1\obj\Debug\net9.0\Task1.pdb
+C:\Users\redmi\OneDrive\Рабочий стол\C#\lesson-1\Task1\obj\Debug\net9.0\Task1.genruntimeconfig.cache
+C:\Users\redmi\OneDrive\Рабочий стол\C#\lesson-1\Task1\obj\Debug\net9.0\ref\Task1.dll
